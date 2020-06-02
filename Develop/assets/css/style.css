@@ -1,3 +1,4 @@
+/* Global and bare HTML entities */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,6 +18,7 @@ p {
     font-size: 16px;
 }
 
+/* Header block */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Footer block */
 footer {
     padding: 30px;
     clear: both;
@@ -80,6 +83,7 @@ footer h2 {
     margin-left: 25px;
 }
 
+/* Content block */
 .content {
     width: 75%;
     display: inline-block;
@@ -104,6 +108,7 @@ footer h2 {
     font-size: 36px;
 }
 
+/* Benefits block */
 .benefits {
     margin-right: 20px;
     padding: 20px;
