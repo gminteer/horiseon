@@ -64,15 +64,7 @@ footer h2 {
     font-size: 20px;
 }
 
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
-
+/* Helper bits */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -83,7 +75,17 @@ footer h2 {
     margin-left: 25px;
 }
 
-/* Content block */
+/* hero class */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* content class */
 .content {
     width: 75%;
     display: inline-block;
@@ -108,7 +110,7 @@ footer h2 {
     font-size: 36px;
 }
 
-/* Benefits block */
+/* benefits class */
 .benefits {
     margin-right: 20px;
     padding: 20px;
