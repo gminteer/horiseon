@@ -4,7 +4,7 @@
 
 Week 1 challenge, refactoring the Horiseon landing page to make use of semantic tags, simplify the CSS, and add alt tags to images.
 
-##Summary of changes:
+## Summary of changes:
 - Moved all files from "urban-octo-telegram/Develop" to root of tree.
 - Replaced div class="header", div class="footer", and div class="nav" with actual header/footer/nav tags and updated CSS accordingly (removed unnecessary class attributes)
 - Replaced div class="content" and div class="benefits" with section tags (still tagged with class attributes), replaced div tags within those sections with article tags.
